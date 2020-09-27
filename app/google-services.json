@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "363982955295",
+    "firebase_url": "https://breakingnews-bf95a.firebaseio.com",
+    "project_id": "breakingnews-bf95a",
+    "storage_bucket": "breakingnews-bf95a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363982955295:android:cedec56e489a078eb5462a",
+        "android_client_info": {
+          "package_name": "com.anilkumarnishad.breakingnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363982955295-f6u9dr7a1349evvmoqvvck183ep22rlq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anilkumarnishad.breakingnews",
+            "certificate_hash": "07ad9619f7005df5f56362847e7adfc39572f3b4"
+          }
+        },
+        {
+          "client_id": "363982955295-0u1p83642ui72nv19f0fd3bu30oclpbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe2NcBbRc4h7U8AzdMlzk4rfLQVteAAJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363982955295-0u1p83642ui72nv19f0fd3bu30oclpbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

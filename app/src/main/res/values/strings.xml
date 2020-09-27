@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">BreakingNews</string>
+    <string name="facebook_app_id">424254848462108</string>
+    <string name="fb_login_protocol_scheme">fb424254848462108</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_about">About Us</string>
+    <string name="action_share">Share</string>
+    <string name="action_profile">Profile</string>
+    <string name="tom_edition">TOM EDITION</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="loading">Loading....</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="edit_pic">Edit Pic</string>
+    <string name="slide_1_title">Shop on mobile</string>
+    <string name="slide_1_desc">Shop from comfort of you home!</string>
+
+    <string name="slide_2_title">Browse through stores</string>
+    <string name="slide_2_desc">Browse item of your need from hundreds stores</string>
+
+    <string name="slide_3_title">Great Discounts</string>
+    <string name="slide_3_desc">Best discounts on every single service we offer!</string>
+
+    <string name="slide_4_title">Super fast delivery</string>
+    <string name="slide_4_desc">Get order delivered at your doorstep!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
